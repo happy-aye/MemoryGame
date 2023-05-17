@@ -8,6 +8,6 @@ Screenshots and Video recording of the app: [Google Drive](https://drive.google.
 
 
 
-#Note
+# Note
 do not try to read the code, it will hurt yo eyes
 
