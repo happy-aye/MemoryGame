@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/app_background"
+    android:id="@+id/relative"
+    tools:context=".Fragments.Start">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:background="@drawable/main_menu_logo_final">
+
+        <ImageView
+            android:id="@+id/play_game"
+            android:layout_width="200dp"
+            android:layout_height="95dp"
+            android:layout_marginTop="100dp"
+            android:layout_marginBottom="24dp"
+            android:background="@drawable/button_play"
+            android:contentDescription="@string/image_description" />
+
+        <ImageView
+            android:id="@+id/credits"
+            android:layout_width="200dp"
+            android:layout_height="95dp"
+            android:background="@drawable/button_credits"
+            android:contentDescription="@string/image_description" />
+
+    </LinearLayout>
+    
+</RelativeLayout>
