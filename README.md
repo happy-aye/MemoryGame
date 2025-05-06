@@ -1,7 +1,6 @@
 # MemoryGame
 
-Mob app Pre-finals PTask
-
+A Matching Card Game developed in Java for Android, where players select and flip cards to find their matching pairs. This project is submitted as part of the Pre-Finals Performance Task.
 
 
 
@@ -19,6 +18,20 @@ Screenshots and Video recording of the app: [Google Drive](https://drive.google.
 
 
 
-# Note
-do not try to read the code, it will hurt yo eyes
+## Contributors ✨
+
+<table>
+  <tbody>
+    <tr>
+       <td align="center" valign="top" width="14.28%">
+         <a href="https://github.com/JaeYangLee"">
+           <img src="https://avatars.githubusercontent.com/u/139615457?v=3?100" width="100px;" alt="Jian Lee"/>
+           <br />
+           <sub><b>Jian Lee</b></sub>
+         </a>
+         <br />
+         <a href="#design-marcobiedermann" title="Design">🎨</a>
+      </tr>
+  </tbody>
+</table>
 
